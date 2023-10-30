@@ -1,0 +1,15 @@
+td{
+    vertical-align: middle;
+}
+.remove,.add{
+    cursor: pointer;
+}
+.remove{
+    margin-right: 4px;
+}
+.add{
+    margin-left: 4px;
+}
+.basket-img{
+    width: 60px;
+}
